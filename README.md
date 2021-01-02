@@ -71,7 +71,7 @@ Usage of the tool for attacking targets without prior mutual consent is illegal.
 
 ### Development by
 
-Modify : [Mr. Bee](https://www.instagram.com/bhikan_deshmukh/)
+Developer : [Mr. Bee](https://www.instagram.com/bhikan_deshmukh/)
 
 ### <h2 align="center">To Know about Ethical Hacking , Android And Kali Linux Do ♨️ Follow ♨️ Us:-</h2>
 <p align="center">
